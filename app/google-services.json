@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758533411130",
+    "project_id": "buymatchtickets-15986",
+    "storage_bucket": "buymatchtickets-15986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758533411130:android:3e4a4f892483e3138fc003",
+        "android_client_info": {
+          "package_name": "com.example.buymatchtickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758533411130-2n7uaueofv0d26bfr19mo6n7k68ubie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLKz1mfm3PoSLM47STrfO8Szr6_gGy4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758533411130-2n7uaueofv0d26bfr19mo6n7k68ubie4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
